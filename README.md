@@ -2,6 +2,9 @@
 
 Tableau de bord pour visualiser les cinémas sur le territoire métropolitaine français et trouver les dix cinémas plus porche à un adresse (ou code postal) donnée.
 
+Données pris depuis
+https://cinema-public.opendatasoft.com/
+
 ## Pour commencer
 
 ### Dépendances
